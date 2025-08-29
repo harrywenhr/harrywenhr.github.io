@@ -20,8 +20,8 @@
     "hostName": "officeMacMini"
   },
   {
-    "lastBlockedTime": "2025-08-28_20:54:07",
-    "state": "Running",
+    "lastBlockedTime": "2025-08-28_22:23:44",
+    "state": "Blocked",
     "hostName": "homeImac"
   }
 ]
