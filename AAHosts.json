@@ -2,7 +2,7 @@
   "hosts": [
     {
       "lastBlockedTime": "2025-09-22_10:27:17",
-      "state": "Blocked",
+      "state": "Running",
       "hostName": "officeTestMac4"
     },
     {
