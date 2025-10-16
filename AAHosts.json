@@ -1,17 +1,17 @@
 {
   "hosts": [
     {
-      "lastBlockedTime": "2025-10-14_22:58:06",
+      "lastBlockedTime": "2025-10-16_08:01:36",
       "state": "Running",
       "hostName": "homeMacMini"
     },
     {
-      "lastBlockedTime": "2025-10-14_23:51:31",
+      "lastBlockedTime": "2025-10-16_08:57:50",
       "state": "Blocked",
       "hostName": "officeMacMini"
     },
     {
-      "lastBlockedTime": "2025-10-15_00:14:26",
+      "lastBlockedTime": "2025-10-16_09:20:02",
       "state": "Blocked",
       "hostName": "officeImac"
     }
