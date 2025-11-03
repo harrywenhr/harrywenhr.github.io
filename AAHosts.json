@@ -1,8 +1,8 @@
 {
   "hosts": [
     {
-      "lastBlockedTime": "2025-10-31_22:57:28",
-      "state": "Running",
+      "lastBlockedTime": "2025-11-02_22:59:00",
+      "state": "Blocked",
       "hostName": "homeMacMini"
     },
     {
