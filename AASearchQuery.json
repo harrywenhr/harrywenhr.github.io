@@ -1,1 +1,1 @@
-{"enableNextYearSearch":false,"loopWaitTime":"60","queries":[{"MaxStops":"2","DepartDate":["2026-05-20","1"],"Origin":"SFO","Predicates":["JL_First","JL_Busi"],"Destination":"OKJ,CTS,TAK"}],"querySleepInterval":"10"}
+{"enableNextYearSearch":false,"loopWaitTime":"60","queries":[{"MaxStops":"2","DepartDate":["2026-05-20","1"],"Origin":"SFO","Predicates":["JL_First","JL_Busi"],"Destination":"OKJ,CTS,TAK"},{"MaxStops":"2","DepartDate":["2026-06-04","1"],"Origin":"OKJ,CTS,TAK","Predicates":["JL_First","JL_Busi"],"Destination":"SFO"}],"querySleepInterval":"10"}
