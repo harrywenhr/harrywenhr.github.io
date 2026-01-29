@@ -1,1 +1,20 @@
-{"hosts":[{"lastBlockedTime":"2026-01-20_05:59:09","state":"Blocked","hostName":"homeMacMini"},{"lastBlockedTime":"2026-01-22_00:17:09","state":"Blocked","hostName":"officeMacMini"},{"lastBlockedTime":"2026-01-19_00:54:31","state":"Blocked","hostName":"officeImac"}],"masterState":"Resume"}
+{
+  "hosts": [
+    {
+      "lastBlockedTime": "2026-01-20_05:59:09",
+      "state": "Blocked",
+      "hostName": "homeMacMini"
+    },
+    {
+      "lastBlockedTime": "2026-01-22_00:17:09",
+      "state": "Blocked",
+      "hostName": "officeMacMini"
+    },
+    {
+      "lastBlockedTime": "2026-01-19_00:54:31",
+      "state": "Running",
+      "hostName": "officeImac"
+    }
+  ],
+  "masterState": "Resume"
+}
