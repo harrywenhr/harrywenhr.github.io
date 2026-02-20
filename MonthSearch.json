@@ -1,0 +1,1 @@
+{"enableNextYearSearch":false,"loopWaitTime":"60","queries":[{"MaxStops":"1","DepartDate":["2025-10-01","2"],"Origin":"CTS","Predicates":["JL_First"],"Destination":"LAX","MonthSearch":true}],"querySleepInterval":"10"}
