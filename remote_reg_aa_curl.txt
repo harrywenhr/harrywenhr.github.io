@@ -1,0 +1,1 @@
+remote_reg_aa_curl.txt
